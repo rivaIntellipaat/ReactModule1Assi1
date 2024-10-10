@@ -1,0 +1,77 @@
+.BottomSheetModal_705_392 {
+  background: var(--white-100, #fff);
+  border-radius: 8px 8px 0 0;
+  flex-direction: column;
+  align-items: flex-start;
+  display: inline-flex;
+  box-shadow:
+    0 2px 4px #0000001a,
+    0 16px 32px #0003;
+}
+.SectionHeader_139_1314 {
+  background: #eee;
+  height: 56px;
+}
+.TextLabel_139_1097 {
+  color: var(--black-60, #0009);
+  width: 288px;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  display: inline-block;
+}
+.NavigationExpandMore_139_1099 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+}
+.ListItem_100_1715 {
+  align-items: center;
+  gap: 16px;
+  min-height: 48px;
+  padding: 8px 16px;
+  display: flex;
+}
+.Visual_130_1315 {
+  align-items: center;
+  gap: 8px;
+  width: 40px;
+  height: 40px;
+  padding: 8px 16px 8px 0;
+  display: flex;
+}
+.ActionLabel_130_1295 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+}
+.IconActionLabel_24px_0_1299 {
+  fill: var(--black-60, #0009);
+  flex-shrink: 0;
+  width: 19px;
+  height: 14px;
+}
+.PrimaryText_9_1 {
+  color: var(--black-87, #000000de);
+  font-feature-settings:
+    "liga" off,
+    "clig" off;
+  letter-spacing: undefined;
+  flex: 1 0 0;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  display: inline-block;
+}
+.ListItem_100_1716,
+.ListItem_100_1717 {
+  align-items: center;
+  gap: 16px;
+  min-height: 48px;
+  padding: 8px 16px;
+  display: flex;
+}
